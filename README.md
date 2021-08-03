@@ -1,2 +1,6 @@
-# primeiros-passos-docker
-Os primeiros passos nesta imensidão do mundo Docker. Neste material singular é proposto a criação dos processos necessários para obtermos testes que demonstram o funcionamento da ferramenta Docker.
+# docker101
+Repositório criado para auxiliar no aprendizado do curso de Docker disponível na plataforma [Digital Innovation One](https://digitalinnovation.one/).
+
+Qualquer dúvida, critica ou sugestão referente as aulas ou curso podem também serem sanadas no grupo do [telegram](https://t.me/joinchat/GzbydxdJZF0ZV-PCxcQdSQ).
+
+Sintam-se a vontade em melhorar o conteúdo aqui criado!
